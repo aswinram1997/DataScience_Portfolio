@@ -76,7 +76,7 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 
 #### Project 1: Vehicle-Insurance-Fraud-Detection
 
-- **GitHub Repository:** [https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master]
+- **GitHub Repository:** [Link to Project Repository](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
 - **Description:** Briefly describe the project and its objectives.
 - **Image:** ![Project Image](images/project3.png)
 
