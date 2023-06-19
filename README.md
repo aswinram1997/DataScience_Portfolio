@@ -59,13 +59,6 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 - **Description:** Briefly describe the project and its objectives.
 - **Image:** ![Project Image](images/project3.png)
 
-#### Project 3: Strategic Visions: Human-Centered ML Systems in Ergonomics for Manufacturing Industries
-
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project3.png)
-
 
 
 ### Industry 2: Technology
@@ -81,15 +74,14 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 
 ### Industry 3: Financial
 
-#### Project 1: Credit Card Approval Prediction App
+#### Project 1: Vehicle-Insurance-Fraud-Detection
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
+- **GitHub Repository:** [https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master]
 - **Description:** Briefly describe the project and its objectives.
 - **Image:** ![Project Image](images/project3.png)
 
 
-#### Project 1: Vehicle-Insurance-Fraud-Detection
+#### Project 1: Credit Card Approval Prediction App
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
