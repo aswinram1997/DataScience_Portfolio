@@ -52,7 +52,7 @@
 <br>
 ## 2. Health and Safety
 
-### 2.1 2ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
+### 2.1 ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
 
 [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
