@@ -6,35 +6,35 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 
 ### Industry 1: Manufacturing and Construction
 
-#### Project 1: [Estimating Prefabricated Residential Direct Material Construction Costs with ML]
+#### Project 1: Estimating Prefabricated Residential Direct Material Construction Costs with ML
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
 - **Description:** Briefly describe the project and its objectives.
 - **Image:** ![Project Image](images/project1.png)
   
-#### Project 2: [Predicting Prefabricated Residential Direct Labour Construction Costs with ML]
+#### Project 2: Predicting Prefabricated Residential Direct Labour Construction Costs with ML
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
 - **Description:** Briefly describe the project and its objectives.
 - **Image:** ![Project Image](images/project1.png)
 
-#### Project 3: [Demand Forecasting for Prefabricated Residential Homes: Time Series-Based ML Approach]
+#### Project 3: Demand Forecasting for Prefabricated Residential Homes: Time Series-Based ML Approach
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
 - **Description:** Briefly describe the project and its objectives.
 - **Image:** ![Project Image](images/project1.png)
 
-#### Project 4: [Operating Cost Forecasting for Prefabricated Residential Homes: Time Series-Based ML Approach]
+#### Project 4: Operating Cost Forecasting for Prefabricated Residential Homes: Time Series-Based ML Approach
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
 - **Description:** Briefly describe the project and its objectives.
 - **Image:** ![Project Image](images/project1.png)
 
-#### Project 5: [Prediction of machining parameters using ANN and Fuzzy logic]
+#### Project 5: Prediction of machining parameters using ANN and Fuzzy logic
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
@@ -45,21 +45,21 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 
 ### Industry 2: Health and Safety
 
-#### Project 1: [ML based Data Analytic Framework for Occupational Risk Factor Diagnosis]
+#### Project 1: ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
 - **Description:** Briefly describe the project and its objectives.
 - **Image:** ![Project Image](images/project3.png)
 
-#### Project 2: [Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments]
+#### Project 2: Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
 - **Description:** Briefly describe the project and its objectives.
 - **Image:** ![Project Image](images/project3.png)
 
-#### Project 3: [Strategic Visions: Human-Centered ML Systems in Ergonomics for Manufacturing Industries]
+#### Project 3: Strategic Visions: Human-Centered ML Systems in Ergonomics for Manufacturing Industries
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
@@ -81,7 +81,7 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 
 ### Industry 3: Financial
 
-#### Project 1: [Credit Card Approval Prediction App]
+#### Project 1: Credit Card Approval Prediction App
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
@@ -89,7 +89,7 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 - **Image:** ![Project Image](images/project3.png)
 
 
-#### Project 1: [Vehicle-Insurance-Fraud-Detection]
+#### Project 1: Vehicle-Insurance-Fraud-Detection
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
@@ -97,7 +97,7 @@ Welcome to my Data Science Portfolio! This repository showcases my data science 
 - **Image:** ![Project Image](images/project3.png)
   
 
-#### Project 1: [Stock Sage]
+#### Project 1: Stock Sage
 
 - **GitHub Repository:** [Repository Link]
 - **App Link:** [App Link]
