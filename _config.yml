@@ -1,17 +1,3 @@
-title: 
-logo: 
-description: 
-links:
-  - title: Resume
-    url: /path/to/resume
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/aswinram789/
-  - title: GitHub
-    url: https://github.com/aswinram1997
-
-
-    
-
 title: <p align="center"> Aswin Govindan </p>
 
 logo: "/logo/circle_headshot.png"
@@ -24,8 +10,6 @@ description:
   
   <p align="justify">
   I am a passionate data scientist, leveraging data to drive impactful insights and solve real-world problems.
-  <br><br>
-  I currently have a dual role as a Data Scientist at Landmark Homes and Graduate Research Assisstant at University of Alberta.
   <br><br>
   </p>
   
