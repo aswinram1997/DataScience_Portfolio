@@ -1,5 +1,4 @@
 # Portfolio
-<br>
 ---
 ## Manufacturing and Construction
 
@@ -38,7 +37,7 @@
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
-
+<br>
 ### 4. Prediction of machining parameters using ANN and Fuzzy logic
 
 [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
@@ -75,6 +74,7 @@
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
+<br>
 ## III Technology
 
 ### 1. Insightful Clusters App
@@ -88,6 +88,7 @@
 <center><img src="images/BERT-classification.png"/></center>
 
 ---
+<br>
 ## IV Financial
 
 ### 1. Vehicle-Insurance-Fraud-Detection
