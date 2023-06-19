@@ -1,97 +1,125 @@
-# Data Science Portfolio
+# Portfolio
+---
+## Manufacturing and Construction
 
-Welcome to my Data Science Portfolio! This repository showcases my data science projects, demonstrating my skills and expertise in various industries. Here you will find a collection of projects that highlight my problem-solving abilities, technical proficiency, and creative approach to data-driven solutions.
+### Estimating Prefabricated Residential Direct Construction Costs with ML
 
-## Industries
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
-### Industry 1: Manufacturing and Construction
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
-#### Project 1: Estimating Prefabricated Residential Direct Material Construction Costs with ML
+<center><img src="images/BERT-classification.png"/></center>
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project1.png)
-  
-#### Project 2: Predicting Prefabricated Residential Direct Labour Construction Costs with ML
+---
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project1.png)
+### Demand Forecasting for Prefabricated Residential Homes: Time Series-Based ML Approach
 
-#### Project 3: Demand Forecasting for Prefabricated Residential Homes: Time Series-Based ML Approach
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project1.png)
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
-#### Project 4: Operating Cost Forecasting for Prefabricated Residential Homes: Time Series-Based ML Approach
+<center><img src="images/BERT-classification.png"/></center>
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project1.png)
+---
 
-#### Project 5: Prediction of machining parameters using ANN and Fuzzy logic
+### Operating Cost Forecasting for Prefabricated Residential Homes: Time Series-Based ML Approach
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project1.png)
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
+<center><img src="images/BERT-classification.png"/></center>
 
-### Industry 2: Health and Safety
+---
 
-#### Project 1: ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
+### Prediction of machining parameters using ANN and Fuzzy logic
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project3.png)
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
-#### Project 2: Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project3.png)
+<center><img src="images/BERT-classification.png"/></center>
 
+---
+## Health and Safety
 
+### ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
 
-### Industry 2: Technology
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
-#### Project 1: Insightful Clusters App
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project3.png)
+<center><img src="images/BERT-classification.png"/></center>
 
+---
 
+### Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments
 
-### Industry 3: Financial
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
-#### Project 1: Vehicle-Insurance-Fraud-Detection
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
-- **GitHub Repository:** [Link to Project Repository](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project3.png)
+<center><img src="images/BERT-classification.png"/></center>
 
+---
+## Technology
 
-#### Project 1: Credit Card Approval Prediction App
+### Insightful Clusters App
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project3.png)
-  
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
-#### Project 1: Stock Sage
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
-- **GitHub Repository:** [Repository Link]
-- **App Link:** [App Link]
-- **Description:** Briefly describe the project and its objectives.
-- **Image:** ![Project Image](images/project3.png)
+<center><img src="images/BERT-classification.png"/></center>
+
+---
+## Financial
+
+### Vehicle-Insurance-Fraud-Detection
+
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+
+<center><img src="images/BERT-classification.png"/></center>
+
+---
+### Credit Card Approval Prediction App
+
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+
+<center><img src="images/BERT-classification.png"/></center>
+
+---
+
+### StockSage
+
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+
+<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+
+<center><img src="images/BERT-classification.png"/></center>
+
+---
