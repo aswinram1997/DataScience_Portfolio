@@ -1,3 +1,8 @@
+# About Me 
+With a strong passion for optimizing business systems, I bring extensive experience and expertise as a dedicated Data Scientist. Proficient in data analysis, machine learning, deep learning, predictive modeling, and data app development, I have the necessary skills to tackle complex business challenges. My proficiency in Python, SQL, and various advanced data tools allows me to build robust machine learning models that deliver significant cost savings and operational efficiencies. By combining my technical skills, research aptitude, and deep business understanding, I am committed to streamlining processes and driving business growth through data-driven insights. Motivated by a relentless pursuit of excellence, I aim to revolutionize industries and make a lasting impact.
+---
+
+<br>
 # Portfolio
 ---
 ## 1. Manufacturing and Construction
