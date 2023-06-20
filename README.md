@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## 2. Personal Projects
+## 1. Personal Projects
 
 ### 1.1 Vehicle-Insurance-Fraud-Detection
 
