@@ -4,8 +4,8 @@
 
 ### 1.1 Vehicle-Insurance-Fraud-Detection
 
-[![Open Notebook](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/blob/master/jupyter_notebook/Vehicle%20Insurance%20Fraud%20Detection.ipynb)
-[![View on GitHub](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/blob/master/jupyter_notebook/Vehicle%20Insurance%20Fraud%20Detection.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
 
 <div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
