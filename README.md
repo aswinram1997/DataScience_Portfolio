@@ -62,7 +62,7 @@
 
 ### 2.4 Prediction of machining parameters using ANN and Fuzzy logic
 
-[![Open Web Page](https://img.shields.io/badge/ResearchPaper-blue)](https://www.google.com)
+[![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.google.com)
 
 <div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
@@ -72,8 +72,6 @@
 
 ### 2.5 ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
 
-[![Open Web Page](https://img.shields.io/badge/ResearchPaper-blue)](https://www.google.com)
-
 <div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
@@ -82,7 +80,7 @@
 
 ### 2.6 Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments
 
-[![Open Web Page](https://img.shields.io/badge/ResearchPaper-blue)](https://www.google.com)
+[![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.google.com)
 
 <div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
