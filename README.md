@@ -13,7 +13,7 @@
 
 <center><img src="images/Vehicle Insurance Fraud Detection.png"/></center>
 ---
-<br>
+
 ### 1.2 Credit Card Approval Prediction App
 
 [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://aswinram1997-credit-card-approval-prediction-streaml-app-mayfo2.streamlit.app)
@@ -26,7 +26,6 @@
 <center><img src="images/Credit Card Approval Prediction App.png"/></center>
 
 ---
-<br>
 
 ###  1.3 Insightful Clusters App
 
@@ -39,7 +38,6 @@
 <center><img src="images/Insightful Clusters App.png"/></center>
 
 ---
-<br>
 
 ## 2. Work-related Projects
 
@@ -51,7 +49,6 @@
 <center><img src="images/Estimating Prefabricated Residential Direct Construction Costs with ML.png"/></center>
 
 ---
-<br>
 ### 2.2 Estimating Prefabricated Residential Indirect Construction Costs with ML
 
 <div style="text-align: justify">Accurately allocating indirect construction costs is a critical challenge that directly impacts business profitability and competitiveness. To tackle this challenge, I have developed an application that seamlessly integrates two powerful time series-based ML models. The first model predicts monthly square footage demand, while the second model forecasts operating costs. By calculating the demand-to-operating cost ratio, this innovative application empowers efficient allocation of indirect costs across jobs leading to enhanced profitability and, a strong competitive position in the residential construction industry. The time series models underlying the developed application achieved a significant 49% and 37% improvement in MAE compared to baseline models.
@@ -60,7 +57,6 @@
 <center><img src="images/ Estimating Prefabricated Residential Indirect Construction Costs with ML.png"/></center>
 
 ---
-<br>
 
 ### 2.3 Demand Forecasting for Prefabricated Residential Homes
 
@@ -70,7 +66,7 @@
 <center><img src="images/Demand Forecasting for Prefabricated Residential Homes.png"/></center>
 
 ---
-<br>
+
 ### 2.4 Prediction of machining parameters using ANN and Fuzzy logic
 
 [![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.inderscienceonline.com/doi/abs/10.1504/IJPMB.2021.118323)
@@ -81,7 +77,7 @@
 <center><img src="images/Prediction of machining parameters using ANN and Fuzzy logic.png"/></center>
 
 ---
-<br>
+
 ### 2.5 ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
 
 <div style="text-align: justify">Manufacturing and construction businesses face challenges in efficiently managing occupational risks. To address this issue, an advanced data analytics framework was developed, integrating clustering algorithms, XGBoost modeling, and SHAP analysis for occupational risk diagnosis. This framework utilizes clustering algorithms to label incident datasets, trains an XGBoost model on the labeled data, and applies SHAP analysis to gain insights into the input-output relationship and interpret risk factors. With an impressive F1 score of 0.90 on the case study dataset, the framework demonstrates its reliability and effectiveness. This integrated approach allows for a comprehensive and reliable occupational risk diagnosis, enabling businesses to make informed decisions and take proactive measures to improve occupational health and safety.
@@ -90,7 +86,7 @@
 <center><img src="images/ML based Data Analytic Framework for Occupational Risk Factor Diagnosis.png"/></center>
 
 ---
-<br>
+
 ### 2.6 Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments
 
 [![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0169814123000513)
