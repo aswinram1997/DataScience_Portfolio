@@ -54,7 +54,7 @@
 <div style="text-align: justify">Accurately allocating indirect construction costs is a critical challenge that directly impacts business profitability and competitiveness. To tackle this challenge, I have developed an application that seamlessly integrates two powerful time series-based ML models. The first model predicts monthly square footage demand, while the second model forecasts operating costs. By calculating the demand-to-operating cost ratio, this innovative application empowers efficient allocation of indirect costs across jobs leading to enhanced profitability and, a strong competitive position in the residential construction industry. The time series models underlying the developed application achieved a significant 49% and 37% improvement in MAE compared to baseline models.
 </div>
 
-<center><img src="images/ Estimating Prefabricated Residential Indirect Construction Costs with ML.png"/></center>
+<center><img src="images/Estimating Prefabricated Residential Indirect Construction Costs with ML.png"/></center>
 
 ---
 
