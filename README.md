@@ -30,7 +30,7 @@
 ###  1.3 Insightful Clusters App
 
 [![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://aswinram1997-insightful-clusters-app-app-ttcgl5.streamlit.app)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/chriskhanhtran/facebook-detect-food-trends](https://github.com/aswinram1997/Insightful_Clusters_App))
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Insightful_Clusters_App)
 
 <div style="text-align: justify">Insightful Clusters tackles the challenge of grouping custom datasets and providing users with a clear understanding of group meanings, regardless of their data science expertise. By automating preprocessing, clustering, and interpretation using techniques such as unsupervised learning, supervised learning, and explainable AI, it streamlines the cluster analysis process, saving time and improving decision-making. Although, Insightful Clusters is an automated application, it does offer some flexibility to adjust algorithms and hyperparameters if needed. Insightful Clusters has a significant impact by providing rapid and valuable insights, facilitating a deeper understanding of diverse datasets.
 </div>
