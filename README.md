@@ -58,16 +58,7 @@
 
 ---
 
-### 2.3 Demand Forecasting for Prefabricated Residential Homes
-
-<div style="text-align: justify">In the ever-evolving world of real estate, accurately forecasting the demand for prefabricated residential homes has become a critical challenge for businesses. To address this, a ML-based time series application is developed, analyzing in-house and market data to provide invaluable insights for reliable demand forecasting. The impact of this project is profound, as it enables businesses to optimize production planning, streamline inventory management, minimize construction delays, and ultimately deliver customer satisfaction by ensuring the availability of prefabricated homes that precisely match market demand. The demand forecasting model achieved a significant 49% improvement in MAE compared to baseline models.
-</div>
-
-<center><img src="images/Demand Forecasting for Prefabricated Residential Homes.png"/></center>
-
----
-
-### 2.4 Prediction of machining parameters using ANN and Fuzzy logic
+### 2.3 Prediction of machining parameters using ANN and Fuzzy logic
 
 [![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.inderscienceonline.com/doi/abs/10.1504/IJPMB.2021.118323)
 
@@ -78,7 +69,7 @@
 
 ---
 
-### 2.5 ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
+### 2.4 ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
 
 <div style="text-align: justify">Manufacturing and construction businesses face challenges in efficiently managing occupational risks. To address this issue, an advanced data analytics framework was developed, integrating clustering algorithms, XGBoost modeling, and SHAP analysis for occupational risk diagnosis. This framework utilizes clustering algorithms to label incident datasets, trains an XGBoost model on the labeled data, and applies SHAP analysis to gain insights into the input-output relationship and interpret risk factors. With an impressive F1 score of 0.90 on the case study dataset, the framework demonstrates its reliability and effectiveness. This integrated approach allows for a comprehensive and reliable occupational risk diagnosis, enabling businesses to make informed decisions and take proactive measures to improve occupational health and safety.
 </div>
@@ -87,7 +78,7 @@
 
 ---
 
-### 2.6 Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments
+### 2.5 Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments
 
 [![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0169814123000513)
 
