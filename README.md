@@ -3,7 +3,7 @@
 
 ## 1. Personal Projects
 
-### 1.1 Vehicle-Insurance-Fraud-Detection
+### 1.1 Vehicle Insurance Fraud Detection
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/blob/master/jupyter_notebook/Vehicle%20Insurance%20Fraud%20Detection.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
