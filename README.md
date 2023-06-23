@@ -60,7 +60,7 @@
 
 ### 2.3 Machining Parameter Prediction using ANN & Fuzzy Logic
 
-[![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.inderscienceonline.com/doi/abs/10.1504/IJPMB.2021.118323)
+[![Open Web Page](https://img.shields.io/badge/Research-View_Paper-blue)](https://www.inderscienceonline.com/doi/abs/10.1504/IJPMB.2021.118323)
 
 <div style="text-align: justify">In manufacturing organizations, inefficient machining processes on metal matrix composites lead to resource wastage and reduced productivity. To tackle this issue, I developed and compared two predictive models: ANN and Fuzzy Logic. These models offer the ability to optimize machining parameters, thereby enhancing resource utilization and improving productivity. Notably, both models provide accurate predictions of machining parameters. However, the ANN model emerged as the top performer, achieving an impressive R2 score of 0.99. The developed models prevent resource wastage due to trial and error based machining parameter optimization, leading to enhanced operational efficiency and improved profitability for enterprises.
 </div>
@@ -80,7 +80,7 @@
 
 ### 2.5 Ergonomic Risk Assessment with Fuzzy DSS
 
-[![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0169814123000513)
+[![Open Web Page](https://img.shields.io/badge/Research-View_Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0169814123000513)
 
 <div style="text-align: justify">Modular construction organizations ignore ergonomics risk assessments due to a lack of automated and comprehensive tools. To tackle this problem, a fuzzy logic-based decision support system (DSS) is designed and validated to automatically assess the ergonomic performance of work systems in modular construction plants using physical, environmental, and sensory data. The system generates a risk score and classes, identifying high-risk workstations. This enables targeted risk mitigation strategies, enhancing health and safety in the industry.
 </div>
