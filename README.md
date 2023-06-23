@@ -14,7 +14,7 @@
 <center><img src="images/Vehicle Insurance Fraud Detection.png"/></center>
 ---
 
-### 1.2 Credit Card Approval Prediction App
+### 1.2 Credit Card Approval Prediction Web App
 
 [![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://aswinram1997-credit-card-approval-prediction-streaml-app-mayfo2.streamlit.app)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App/blob/master/Credit%20Card%20Approval%20Prediction.ipynb)
@@ -27,7 +27,7 @@
 
 ---
 
-###  1.3 Insightful Clusters App
+###  1.3 Insightful Clusters Web App
 
 [![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://aswinram1997-insightful-clusters-app-app-ttcgl5.streamlit.app)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Insightful_Clusters_App)
@@ -41,7 +41,7 @@
 
 ## 2. Work-related Projects
 
-### 2.1 Estimating Prefabricated Residential Direct Construction Costs with ML
+### 2.1 Direct Construction Cost Estimation with ML
 
 <div style="text-align: justify">This pioneering project addresses the inefficiencies and errors in manual estimation methods for prefabricated residential construction costs. Introducing two robust ML models for predicting direct material, and labor costs, trained on a comprehensive job cost dataset with home design and project-related features, this project offers a transformative solution. These ML models offer remarkable accuracy, as evidenced by their impressive metrics: the model for predicting direct material costs achieves an R2 score of 0.96, while the model for estimating direct labor costs achieves an R2 score of 0.92.  Seamlessly integrated into a single innovative application, these ML models revolutionize cost estimation by enhancing accuracy, operational efficiency, and providing a competitive advantage over competitors relying on traditional cost estimation methods.
 </div>
@@ -49,7 +49,7 @@
 <center><img src="images/Estimating Prefabricated Residential Direct Construction Costs with ML.png"/></center>
 
 ---
-### 2.2 Estimating Prefabricated Residential Indirect Construction Costs with ML
+### 2.2 Indirect Construction Cost Estimation with ML
 
 <div style="text-align: justify">Accurately allocating indirect construction costs is a critical challenge that directly impacts business profitability and competitiveness. To tackle this challenge, I have developed an application that seamlessly integrates two powerful time series-based ML models. The first model predicts monthly square footage demand, while the second model forecasts operating costs. By calculating the demand-to-operating cost ratio, this innovative application empowers efficient allocation of indirect costs across jobs leading to enhanced profitability and, a strong competitive position in the residential construction industry. The time series models underlying the developed application achieved a significant 49% and 37% improvement in MAE compared to baseline models.
 </div>
@@ -58,7 +58,7 @@
 
 ---
 
-### 2.3 Prediction of machining parameters using ANN and Fuzzy logic
+### 2.3 Machining Parameter Prediction using ANN & Fuzzy Logic
 
 [![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.inderscienceonline.com/doi/abs/10.1504/IJPMB.2021.118323)
 
@@ -69,7 +69,7 @@
 
 ---
 
-### 2.4 ML based Data Analytic Framework for Occupational Risk Factor Diagnosis
+### 2.4 ML-based Occupational Risk Diagnosis Framework
 
 <div style="text-align: justify">Manufacturing and construction businesses face challenges in efficiently managing occupational risks. To address this issue, an advanced data analytics framework was developed, integrating clustering algorithms, XGBoost modeling, and SHAP analysis for occupational risk diagnosis. This framework utilizes clustering algorithms to label incident datasets, trains an XGBoost model on the labeled data, and applies SHAP analysis to gain insights into the input-output relationship and interpret risk factors. With an impressive F1 score of 0.92 on the case study dataset, the framework demonstrates its reliability and effectiveness. This integrated approach allows for a comprehensive and reliable occupational risk diagnosis, enabling businesses to make informed decisions and take proactive measures to improve occupational health and safety.
 </div>
@@ -78,11 +78,11 @@
 
 ---
 
-### 2.5 Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments
+### 2.5 Ergonomic Risk Assessment with Fuzzy DSS
 
 [![Open Web Page](https://img.shields.io/badge/Research-Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0169814123000513)
 
-<div style="text-align: justify">Modular construction organizations ignore ergonomics risk assessments due to a lack of automated and comprehensive tools. To tackle this problem, a fuzzy logic-based decision support system is designed and validated to automatically assess the ergonomic performance of work systems in modular construction plants using physical, environmental, and sensory data. The system generates a risk score and classes, identifying high-risk workstations. This enables targeted risk mitigation strategies, enhancing health and safety in the industry.
+<div style="text-align: justify">Modular construction organizations ignore ergonomics risk assessments due to a lack of automated and comprehensive tools. To tackle this problem, a fuzzy logic-based decision support system (DSS) is designed and validated to automatically assess the ergonomic performance of work systems in modular construction plants using physical, environmental, and sensory data. The system generates a risk score and classes, identifying high-risk workstations. This enables targeted risk mitigation strategies, enhancing health and safety in the industry.
 </div>
 
 <center><img src="images/Fuzzy Logic-Based Decision Support System for Automating Ergonomic Risk Assessments.png"/></center>
