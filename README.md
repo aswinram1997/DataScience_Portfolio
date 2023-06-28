@@ -51,7 +51,7 @@
 
 ### 1.5 Stock Analysis Dashboard
 
-[![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)]([https://aswinram1997-insightful-clusters-app-app-ttcgl5.streamlit.app](https://stocksage-pro-jifcyjrw1ue.streamlit.app))
+[![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://stocksage-pro-jifcyjrw1ue.streamlit.app)
 
 <div style="text-align: justify">Introducing an innovative stock analysis dashboard that addresses the challenge investors face in analyzing competitive advantage and determining stock value, similar to Warren Buffett's approach. This powerful tool enables thorough evaluation of competitive advantage and intrinsic value, enhancing decision-making. By utilizing the dashboard, investors can make well-informed choices and identify undervalued stocks with enduring competitive advantages. The potential result is optimized long-term investment returns, following Warren Buffett's successful strategies. Inspired by the principles from "Warren Buffett and the Interpretation of Financial Statements," this dashboard is a valuable companion for navigating stock analysis complexities.
 </div>
