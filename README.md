@@ -3,15 +3,16 @@
 
 ## 1. Personal Projects
 
-### 1.1 Vehicle Insurance Fraud Detection
+###  1.1 Insightful Clusters Web App
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/blob/master/jupyter_notebook/Vehicle%20Insurance%20Fraud%20Detection.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
+[![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://aswinram1997-insightful-clusters-app-app-ttcgl5.streamlit.app)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Insightful_Clusters_App)
 
-<div style="text-align: justify">Vehicle insurance fraud is a pervasive problem involving false or exaggerated claims. To tackle this challenge, a ML model has been developed to assist insurance companies in identifying fraudulent claims. The developed model achieved an F1 score of 0.95. By accurately detecting high-risk claims, the model helps prevent payouts on illegitimate claims, reducing financial losses for insurance companies. Furthermore, the model acts as a deterrent, discouraging fraudsters from attempting fraudulent activities and contributing to an overall reduction in insurance fraud.
+<div style="text-align: justify">Insightful Clusters tackles the challenge of grouping custom datasets and providing users with a clear understanding of group meanings, regardless of their data science expertise. By automating preprocessing, clustering, and interpretation using techniques such as unsupervised learning, supervised learning, and explainable AI, it streamlines the cluster analysis process, saving time and improving decision-making. Although, Insightful Clusters is an automated application, it does offer some flexibility to adjust algorithms and hyperparameters if needed. Insightful Clusters has a significant impact by providing rapid and valuable insights, facilitating a deeper understanding of diverse datasets.
 </div>
 
-<center><img src="images/Vehicle Insurance Fraud Detection.png"/></center>
+<center><img src="images/Insightful Clusters App.png"/></center>
+
 ---
 
 ### 1.2 Credit Card Approval Prediction Web App
@@ -27,17 +28,28 @@
 
 ---
 
-###  1.3 Insightful Clusters Web App
+### 1.3 Vehicle Insurance Fraud Detection
 
-[![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://aswinram1997-insightful-clusters-app-app-ttcgl5.streamlit.app)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Insightful_Clusters_App)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/blob/master/jupyter_notebook/Vehicle%20Insurance%20Fraud%20Detection.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
 
-<div style="text-align: justify">Insightful Clusters tackles the challenge of grouping custom datasets and providing users with a clear understanding of group meanings, regardless of their data science expertise. By automating preprocessing, clustering, and interpretation using techniques such as unsupervised learning, supervised learning, and explainable AI, it streamlines the cluster analysis process, saving time and improving decision-making. Although, Insightful Clusters is an automated application, it does offer some flexibility to adjust algorithms and hyperparameters if needed. Insightful Clusters has a significant impact by providing rapid and valuable insights, facilitating a deeper understanding of diverse datasets.
+<div style="text-align: justify">Vehicle insurance fraud is a pervasive problem involving false or exaggerated claims. To tackle this challenge, a ML model has been developed to assist insurance companies in identifying fraudulent claims. The developed model achieved an F1 score of 0.95. By accurately detecting high-risk claims, the model helps prevent payouts on illegitimate claims, reducing financial losses for insurance companies. Furthermore, the model acts as a deterrent, discouraging fraudsters from attempting fraudulent activities and contributing to an overall reduction in insurance fraud.
 </div>
 
-<center><img src="images/Insightful Clusters App.png"/></center>
-
+<center><img src="images/Vehicle Insurance Fraud Detection.png"/></center>
 ---
+
+### 1.4 Retail Demand Prediction
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Retail-Demand-Prediction)
+
+<div style="text-align: justify">Accurate demand prediction is crucial for the retail industry, optimizing inventory, meeting customer demands, and driving profitability. This project compares Facebook's univariate Prophet algorithm and a multivariate LSTM-based algorithm, tailored for demand prediction using the Walmart Dataset, to determine the superior algorithm for predicting aggregated weekly sales. The project's outcomes contribute to a broader understanding of which algorithm is better suited for accurate demand forecasting for seasonal time series data in the retail industry, benefiting inventory optimization, customer satisfaction, and profitability.
+</div>
+
+<center><img src="images/Retail Demand Prediction.png"/></center>
+---
+
+
 
 ## 2. Work-related Projects
 
