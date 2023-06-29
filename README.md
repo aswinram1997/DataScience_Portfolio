@@ -43,7 +43,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Retail-Demand-Prediction)
 
-<div style="text-align: justify">Accurate demand prediction is crucial for the retail industry, optimizing inventory, meeting customer demands, and driving profitability. This project compares Facebook's univariate Prophet algorithm and a multivariate LSTM-based algorithm, tailored for demand prediction using the Walmart Dataset, to determine the superior algorithm for predicting aggregated weekly sales. The project's outcomes contribute to a broader understanding of which algorithm is better suited for accurate demand forecasting for seasonal time series data in the retail industry, benefiting inventory optimization, customer satisfaction, and profitability.
+<div style="text-align: justify">Accurate demand prediction fuels the retail industry, optimizing inventory, satisfying customers, and boosting profits. By comparing Facebook's Prophet algorithm with a tailored multivariate LSTM-based approach on the Walmart Dataset, this project reveals the winning algorithm achieving an astounding 85% RMSE score improvement over the baseline model. These results advance retail demand forecasting, benefiting inventory optimization, customer satisfaction, improving overall profitability, and enhancing our knowledge of algorithms for seasonal time series forecasting in retail.
 </div>
 
 <center><img src="images/Retail Demand Prediction.png"/></center>
