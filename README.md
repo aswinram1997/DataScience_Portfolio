@@ -58,7 +58,7 @@
 <div style="text-align: justify">The insurance industry continually strives to enhance operations and meet customer demands. However, accurately predicting premiums has remained a significant challenge. To address this obstacle, a Streamlit ML application has been developed, leveraging object-oriented programming principles. This innovative solution significantly improves operational efficiency by enabling rapid predictions using ML and facilitating modular code development, code reusability, and simplified maintenance using object-oriented programming. The finalized model achieved an R2 score of 0.85 on the Test Set, demonstrating its accuracy in predicting insurance premiums. This milestone marks a transformative step forward for the insurance sector, equipping it with an advanced tool to optimize the bottom line. 
 </div>
 
-<center><img src="images/Insurance Premium Prediction App.png"/></center>
+<center><img src="images/Insurance Premium Prediction.png"/></center>
 
 ---
 
