@@ -49,7 +49,20 @@
 <center><img src="images/Retail Demand Prediction.png"/></center>
 ---
 
-### 1.5 Stock Analysis Dashboard
+### 1.5 Insurance Premium Prediction Web App
+
+[![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://insurancepremiumpredictionapp.streamlit.app)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Insurance_Premium_Prediction_App/blob/master/jupyter_notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Insurance_Premium_Prediction_App)
+
+<div style="text-align: justify">This project aimed to tackle the business challenge of automating credit card approval outcome classification. By creating a ML application and employing techniques such as data preprocessing, feature engineering, model training, and evaluation, the project effectively showcased the ability to make data-driven, automated credit card approval decisions. The Streamlit sharing app is viewable, while the Azure cloud deployment was proof tested and screenshots are available on GitHub. The credit card approval prediction application can serve as a valuable tool in streamlining the credit card approval process, making it a valuable tool for enhancing operational efficiency within the banking industry.
+</div>
+
+<center><img src="images/Insurance Premium Prediction App.png"/></center>
+
+---
+
+### 1.6 Stock Analysis Dashboard
 
 [![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://stocksage-pro-jifcyjrw1ue.streamlit.app)
 
