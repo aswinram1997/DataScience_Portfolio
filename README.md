@@ -5,7 +5,7 @@
 
 ###  1.1 Insightful Clusters Web App
 
-[![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://aswinram1997-insightful-clusters-app-app-ttcgl5.streamlit.app)
+[![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://aswinram1997-insightful-clusters-app-app-ttcgl5.streamlit.app)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Insightful_Clusters_App)
 
 <div style="text-align: justify">Insightful Clusters tackles the challenge of grouping custom datasets and providing users with a clear understanding of group meanings, regardless of their data science expertise. By automating preprocessing, clustering, and interpretation using techniques such as unsupervised learning, supervised learning, and explainable AI, it streamlines the cluster analysis process, saving time and improving decision-making. Although, Insightful Clusters is an automated application, it does offer some flexibility to adjust algorithms and hyperparameters if needed. Insightful Clusters has a significant impact by providing rapid and valuable insights, facilitating a deeper understanding of diverse datasets.
@@ -17,7 +17,7 @@
 
 ### 1.2 Credit Card Approval Prediction Web App
 
-[![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://aswinram1997-credit-card-approval-prediction-streaml-app-mayfo2.streamlit.app)
+[![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://aswinram1997-credit-card-approval-prediction-streaml-app-mayfo2.streamlit.app)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App/blob/master/Credit%20Card%20Approval%20Prediction.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App)
 
@@ -51,7 +51,7 @@
 
 ### 1.5 Insurance Premium Prediction Web App
 
-[![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://insurancepremiumpredictionapp.streamlit.app)
+[![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://insurancepremiumpredictionapp.streamlit.app)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Insurance_Premium_Prediction_App/blob/master/jupyter_notebook.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Insurance_Premium_Prediction_App)
 
@@ -64,7 +64,7 @@
 
 ### 1.6 Stock Analysis Dashboard
 
-[![Open Web App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://stocksage-pro-jifcyjrw1ue.streamlit.app)
+[![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://stocksage-pro-jifcyjrw1ue.streamlit.app)
 
 <div style="text-align: justify">Introducing an innovative stock analysis dashboard that addresses the challenge investors face in analyzing competitive advantage and determining stock value, similar to Warren Buffett's approach. This powerful tool enables thorough evaluation of competitive advantage and intrinsic value, enhancing decision-making. By utilizing the dashboard, investors can make well-informed choices and identify undervalued stocks with enduring competitive advantages. The potential result is optimized long-term investment returns, following Warren Buffett's successful strategies. Inspired by the principles from the book "Warren Buffett and the Interpretation of Financial Statements," this dashboard is a valuable companion for navigating stock analysis complexities.
 </div>
@@ -95,7 +95,7 @@
 
 ### 2.3 Machining Parameter Prediction using ANN & Fuzzy Logic
 
-[![Open Web Page](https://img.shields.io/badge/Research-View_Paper-blue)](https://www.inderscienceonline.com/doi/abs/10.1504/IJPMB.2021.118323)
+[![Open Web Page](https://img.shields.io/badge/Research-View_Paper-green)](https://www.inderscienceonline.com/doi/abs/10.1504/IJPMB.2021.118323)
 
 <div style="text-align: justify">In manufacturing organizations, inefficient machining processes on metal matrix composites lead to resource wastage and reduced productivity. To tackle this issue, I developed and compared two predictive models: ANN and Fuzzy Logic. These models offer the ability to optimize machining parameters, thereby enhancing resource utilization and improving productivity. Notably, both models provide accurate predictions of machining parameters. However, the ANN model emerged as the top performer, achieving an impressive R2 score of 0.99. The developed models prevent resource wastage due to trial and error based machining parameter optimization, leading to enhanced operational efficiency and improved profitability for enterprises.
 </div>
@@ -115,7 +115,7 @@
 
 ### 2.5 Ergonomic Risk Assessment with Fuzzy DSS
 
-[![Open Web Page](https://img.shields.io/badge/Research-View_Paper-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0169814123000513)
+[![Open Web Page](https://img.shields.io/badge/Research-View_Paper-green)](https://www.sciencedirect.com/science/article/abs/pii/S0169814123000513)
 
 <div style="text-align: justify">Modular construction organizations ignore ergonomics risk assessments due to a lack of automated and comprehensive tools. To tackle this problem, a fuzzy logic-based decision support system (DSS) is designed and validated to automatically assess the ergonomic performance of work systems in modular construction plants using physical, environmental, and sensory data. The system generates a risk score and classes, identifying high-risk workstations. This enables targeted risk mitigation strategies, enhancing health and safety in the industry.
 </div>
