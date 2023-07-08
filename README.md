@@ -1,4 +1,4 @@
-![image](https://github.com/aswinram1997/DataScience_Portfolio/assets/102771069/cdb0d51b-638c-45c6-9062-bad8c79ce1e3)# Portfolio
+# DataScience Portfolio
 ---
 
 ## 1. Personal Projects
