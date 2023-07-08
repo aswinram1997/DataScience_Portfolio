@@ -1,4 +1,4 @@
-# Portfolio
+![image](https://github.com/aswinram1997/DataScience_Portfolio/assets/102771069/cdb0d51b-638c-45c6-9062-bad8c79ce1e3)# Portfolio
 ---
 
 ## 1. Personal Projects
@@ -15,41 +15,18 @@
 
 ---
 
-### 1.2 Credit Card Approval Prediction Web App
+### 1.2 Credit Risk Assessment API
 
-[![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://aswinram1997-credit-card-approval-prediction-streaml-app-mayfo2.streamlit.app)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App/blob/master/Credit%20Card%20Approval%20Prediction.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Credit-Risk-Assessment_API/blob/master/jupyter_notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Credit-Risk-Assessment_API)
 
-<div style="text-align: justify">This project aimed to tackle the business challenge of automating credit card approval outcome classification. By creating a ML application and employing techniques such as data preprocessing, feature engineering, model training, and evaluation, the project effectively showcased the ability to make data-driven, automated credit card approval decisions. The Streamlit sharing app is viewable, while the Azure cloud deployment was proof tested and screenshots are available on GitHub. The credit card approval prediction application can serve as a valuable tool in streamlining the credit card approval process, making it a valuable tool for enhancing operational efficiency within the banking industry.
+<div style="text-align: justify">The lack of an efficient and accurate credit risk assessment system for assessing the risk of loan applicants is crucial for preventing potential financial losses for banks. To address this challenge, this project developed a credit risk assessment ML model that achieves an impressive accuracy of 0.95 in predicting loan defaults. The winning DNN model is encapsulated as a containerized API, allowing seamless integration into the bank's internal applications and systems. By leveraging this integration, banks can make well-informed lending decisions, effectively minimizing financial losses and enhancing overall financial stability.
 </div>
 
-<center><img src="images/Credit Card Approval Prediction App.png"/></center>
-
+<center><img src="images/Credit Risk Assessment API.png"/></center>
 ---
 
-### 1.3 Vehicle Insurance Fraud Detection
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/blob/master/jupyter_notebook/Vehicle%20Insurance%20Fraud%20Detection.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
-
-<div style="text-align: justify">Vehicle insurance fraud is a pervasive problem involving false or exaggerated claims. To tackle this challenge, a ML model has been developed to assist insurance companies in identifying fraudulent claims. The developed model achieved an F1 score of 0.95. By accurately detecting high-risk claims, the model helps prevent payouts on illegitimate claims, reducing financial losses for insurance companies. Furthermore, the model acts as a deterrent, discouraging fraudsters from attempting fraudulent activities and contributing to an overall reduction in insurance fraud.
-</div>
-
-<center><img src="images/Vehicle Insurance Fraud Detection.png"/></center>
----
-
-### 1.4 Retail Demand Prediction
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Retail-Demand-Prediction)
-
-<div style="text-align: justify">Accurate demand prediction fuels the retail industry, optimizing inventory, satisfying customers, and boosting profits. By comparing Facebook's Prophet algorithm with a tailored multivariate LSTM-based approach on the Walmart Dataset, this project reveals the winning algorithm achieving an astounding 85% RMSE score improvement over the baseline model. These results advance retail demand forecasting, benefiting inventory optimization, customer satisfaction, improving overall profitability, and enhancing our knowledge of algorithms for seasonal time series forecasting in retail.
-</div>
-
-<center><img src="images/Retail Demand Prediction.png"/></center>
----
-
-### 1.5 Insurance Premium Prediction Web App
+### 1.3 Insurance Premium Prediction Web App
 
 [![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://insurancepremiumpredictionapp.streamlit.app)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Insurance_Premium_Prediction_App/blob/master/jupyter_notebook.ipynb)
@@ -62,7 +39,41 @@
 
 ---
 
-### 1.6 Stock Analysis Dashboard
+### 1.4 Credit Card Approval Prediction Web App
+
+[![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://aswinram1997-credit-card-approval-prediction-streaml-app-mayfo2.streamlit.app)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App/blob/master/Credit%20Card%20Approval%20Prediction.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App)
+
+<div style="text-align: justify">This project aimed to tackle the business challenge of automating credit card approval outcome classification. By creating a ML application and employing techniques such as data preprocessing, feature engineering, model training, and evaluation, the project effectively showcased the ability to make data-driven, automated credit card approval decisions. The Streamlit sharing app is viewable, while the Azure cloud deployment was proof tested and screenshots are available on GitHub. The credit card approval prediction application can serve as a valuable tool in streamlining the credit card approval process, making it a valuable tool for enhancing operational efficiency within the banking industry.
+</div>
+
+<center><img src="images/Credit Card Approval Prediction App.png"/></center>
+
+---
+
+### 1.5 Retail Demand Prediction
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Retail-Demand-Prediction)
+
+<div style="text-align: justify">Accurate demand prediction fuels the retail industry, optimizing inventory, satisfying customers, and boosting profits. By comparing Facebook's Prophet algorithm with a tailored multivariate LSTM-based approach on the Walmart Dataset, this project reveals the winning algorithm achieving an astounding 85% RMSE score improvement over the baseline model. These results advance retail demand forecasting, benefiting inventory optimization, customer satisfaction, improving overall profitability, and enhancing our knowledge of algorithms for seasonal time series forecasting in retail.
+</div>
+
+<center><img src="images/Retail Demand Prediction.png"/></center>
+---
+
+### 1.6 Vehicle Insurance Fraud Detection
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/blob/master/jupyter_notebook/Vehicle%20Insurance%20Fraud%20Detection.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
+
+<div style="text-align: justify">Vehicle insurance fraud is a pervasive problem involving false or exaggerated claims. To tackle this challenge, a ML model has been developed to assist insurance companies in identifying fraudulent claims. The developed model achieved an F1 score of 0.95. By accurately detecting high-risk claims, the model helps prevent payouts on illegitimate claims, reducing financial losses for insurance companies. Furthermore, the model acts as a deterrent, discouraging fraudsters from attempting fraudulent activities and contributing to an overall reduction in insurance fraud.
+</div>
+
+<center><img src="images/Vehicle Insurance Fraud Detection.png"/></center>
+---
+
+### 1.7 Stock Analysis Dashboard
 
 [![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://stocksage-pro-jifcyjrw1ue.streamlit.app)
 
