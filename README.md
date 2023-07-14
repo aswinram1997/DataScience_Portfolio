@@ -26,20 +26,7 @@
 <center><img src="images/Credit Risk Assessment API.png"/></center>
 ---
 
-### 1.3 Insurance Premium Prediction Web App
-
-[![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://insurancepremiumpredictionapp.streamlit.app)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Insurance_Premium_Prediction_App/blob/master/jupyter_notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Insurance_Premium_Prediction_App)
-
-<div style="text-align: justify">The health insurance industry aims to enhance operations and meet customer demands, with accurate premium prediction being a challenge. To overcome this, a Streamlit ML application was developed, utilizing object-oriented programming. The application's finalized model, achieved an impressive R2 score of 0.85 on the Test Set, after comparing the effectiveness of Linear Regression and ANN models. By leveraging object-oriented programming, the insurance premium prediction application can greatly improve operational efficiency through modular code development, code reusability, and simplified maintenance.
-</div>
-
-<center><img src="images/Insurance Premium Prediction.png"/></center>
-
----
-
-### 1.4 Credit Card Approval Prediction Web App
+### 1.3 Credit Card Approval Prediction Web App
 
 [![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://aswinram1997-credit-card-approval-prediction-streaml-app-mayfo2.streamlit.app)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Credit-Card-Approval-Prediction-Streamlit-App/blob/master/Credit%20Card%20Approval%20Prediction.ipynb)
@@ -52,7 +39,32 @@
 
 ---
 
-### 1.5 Retail Demand Prediction
+### 1.4 Vehicle Insurance Fraud Detection API
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection-API/blob/master/jupyter_notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
+
+<div style="text-align: justify">Vehicle insurance fraud is a pervasive problem involving false or exaggerated claims. To tackle this challenge, a ML model has been developed to assist insurance companies in identifying fraudulent claims. The developed model achieved an F1 score of 0.95. By accurately detecting high-risk claims, the model helps prevent payouts on illegitimate claims, reducing financial losses for insurance companies. Furthermore, the model acts as a deterrent, discouraging fraudsters from attempting fraudulent activities and contributing to an overall reduction in insurance fraud.
+</div>
+
+<center><img src="images/Vehicle Insurance Fraud Detection.png"/></center>
+
+---
+
+### 1.5 Insurance Premium Prediction Web App
+
+[![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://insurancepremiumpredictionapp.streamlit.app)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Insurance_Premium_Prediction_App/blob/master/jupyter_notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Insurance_Premium_Prediction_App)
+
+<div style="text-align: justify">The health insurance industry aims to enhance operations and meet customer demands, with accurate premium prediction being a challenge. To overcome this, a Streamlit ML application was developed, utilizing object-oriented programming. The application's finalized model, achieved an impressive R2 score of 0.85 on the Test Set, after comparing the effectiveness of Linear Regression and ANN models. By leveraging object-oriented programming, the insurance premium prediction application can greatly improve operational efficiency through modular code development, code reusability, and simplified maintenance.
+</div>
+
+<center><img src="images/Insurance Premium Prediction.png"/></center>
+
+---
+
+### 1.6 Retail Demand Prediction
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Retail-Demand-Prediction)
 
@@ -60,17 +72,6 @@
 </div>
 
 <center><img src="images/Retail Demand Prediction.png"/></center>
----
-
-### 1.6 Vehicle Insurance Fraud Detection
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/blob/master/jupyter_notebook/Vehicle%20Insurance%20Fraud%20Detection.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Vehicle-Insurance-Fraud-Detection/tree/master)
-
-<div style="text-align: justify">Vehicle insurance fraud is a pervasive problem involving false or exaggerated claims. To tackle this challenge, a ML model has been developed to assist insurance companies in identifying fraudulent claims. The developed model achieved an F1 score of 0.95. By accurately detecting high-risk claims, the model helps prevent payouts on illegitimate claims, reducing financial losses for insurance companies. Furthermore, the model acts as a deterrent, discouraging fraudsters from attempting fraudulent activities and contributing to an overall reduction in insurance fraud.
-</div>
-
-<center><img src="images/Vehicle Insurance Fraud Detection.png"/></center>
 ---
 
 ### 1.7 Stock Analysis Dashboard
@@ -82,7 +83,6 @@
 
 <center><img src="images/Stock Analysis Dashboard.png"/></center>
 ---
-
 
 
 ## 2. Work-related Projects
