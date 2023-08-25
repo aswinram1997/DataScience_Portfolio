@@ -1,4 +1,4 @@
-# DataScience Portfolio
+# Data Science Portfolio
 ---
 
 ## 1. Personal Projects
@@ -72,9 +72,20 @@
 </div>
 
 <center><img src="images/Retail Demand Prediction.png"/></center>
+
 ---
 
-### 1.7 Stock Analysis Dashboard
+### 1.7 Customer Churn Prediction App
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Retail-Demand-Prediction)
+
+<div style="text-align: justify">E-commerce enterprises grapple with forecasting customer churn, resulting in revenue loss. This project offers a solution through a Customer Churn Prediction ML model, boasting a remarkable ROC-AUC score of 0.97. Integrated into a web app alongside a churn dashboard, it fosters enriched decision-making, elevated customer satisfaction, and refined resource allocation, effectively tackling the e-commerce churn dilemma. By leveraging advanced machine learning techniques and user-friendly interface, this initiative not only predicts customer churn effectively but also empowers businesses to proactively retain customers and optimize their operations.
+</div>
+
+<center><img src="images/Customer Churn Prediction App.png"/></center>
+---
+
+### 1.8 Stock Analysis Dashboard
 
 [![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://stocksage-pro-jifcyjrw1ue.streamlit.app)
 
