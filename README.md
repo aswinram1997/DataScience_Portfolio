@@ -75,7 +75,7 @@
 
 ---
 
-### 1.7 Customer Churn Prediction App
+### 1.7 Customer Churn Prediction Web App
 
 [![Open Web Page](https://img.shields.io/badge/Streamlit-View_App-red)](https://customer-churn-prediction-app-789.streamlit.app)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Customer_Churn_Prediction/blob/master/jupyter_notebook.ipynb)
