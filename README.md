@@ -97,6 +97,17 @@
 <center><img src="images/Stock Analysis Dashboard.png"/></center>
 ---
 
+### 1.9 Financial Sentiment Analysis
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Financial-Sentiment-Analysis/blob/master/jupyter_notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Financial-Sentiment-Analysis)
+
+<div style="text-align: justify">In today's data-driven financial landscape, the development of a Financial Sentiment Analysis Model is of paramount importance for evaluating sentiment in financial data, offering invaluable insights for investment decisions, risk management, and market forecasting. This project compares the effectiveness of various models, such as Text Blob, Multinomial Naïve Bayes, Random Forest, and LSTM, utilizing Natural Language Processing (NLP) techniques to predict market sentiment. By doing so, it equips us with the necessary tools to navigate the intricacies of the ever-evolving financial landscape with greater confidence.
+</div>
+
+<center><img src="images/Financial Sentiment Analysis.png"/></center>
+---
+
 
 ## 2. Work-related Projects
 
