@@ -145,6 +145,8 @@
 
 ### 2.4 ML-based Occupational Risk Diagnosis Framework
 
+[![Open Poster](https://img.shields.io/badge/Research-View_Paper-green)](https://github.com/aswinram1997/DataScience_Portfolio/blob/main/pdf/ML-based%20Occupational%20Risk%20Diagnosis%20Framework.pdf)
+
 <div style="text-align: justify">Manufacturing and construction businesses face challenges in efficiently managing occupational risks. To address this issue, an advanced data analytics framework was developed, integrating clustering algorithms, XGBoost modeling, and SHAP analysis for occupational risk diagnosis. This framework utilizes clustering algorithms to label incident datasets, trains an XGBoost model on the labeled data, and applies SHAP analysis to gain insights into the input-output relationship and interpret risk factors. With an impressive F1 score of 0.92 on the case study dataset, the framework demonstrates its reliability and effectiveness. This integrated approach allows for a comprehensive and reliable occupational risk diagnosis, enabling businesses to make informed decisions and take proactive measures to improve occupational health and safety.
 </div>
 
