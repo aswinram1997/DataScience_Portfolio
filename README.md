@@ -20,7 +20,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Credit-Risk-Assessment_API/blob/master/jupyter_notebook.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Credit-Risk-Assessment_API)
 
-<div style="text-align: justify">The lack of an efficient and accurate credit risk assessment system for assessing the risk of loan applicants is crucial for preventing potential financial losses for banks. To address this challenge, this project developed a credit risk assessment ML model that achieves an impressive accuracy of 0.95 in predicting loan defaults. The winning DNN model is encapsulated as a containerized API, allowing seamless integration into the bank's internal applications and systems. By leveraging this integration, banks can make well-informed lending decisions, effectively minimizing financial losses and enhancing overall financial stability.
+<div style="text-align: justify">The lack of an efficient and accurate credit risk assessment system for assessing the risk of loan applicants is crucial for preventing potential financial losses for banks. To address this challenge, this project developed a credit risk assessment ML model that achieves an impressive ROC-AUC score  of 0.95 in predicting loan defaults. The winning DNN model is encapsulated as a containerized API, allowing seamless integration into the bank's internal applications and systems. By leveraging this integration, banks can make well-informed lending decisions, effectively minimizing financial losses and enhancing overall financial stability.
 </div>
 
 <center><img src="images/Credit Risk Assessment API.png"/></center>
@@ -140,6 +140,8 @@
 ---
 
 ### 2.4 ML-based Occupational Risk Diagnosis Framework
+
+[![Open Web Page](https://img.shields.io/badge/Research-View_Paper-green)](https://www.sciencedirect.com/science/article/abs/pii/S0169814123000513)
 
 <div style="text-align: justify">Manufacturing and construction businesses face challenges in efficiently managing occupational risks. To address this issue, an advanced data analytics framework was developed, integrating clustering algorithms, XGBoost modeling, and SHAP analysis for occupational risk diagnosis. This framework utilizes clustering algorithms to label incident datasets, trains an XGBoost model on the labeled data, and applies SHAP analysis to gain insights into the input-output relationship and interpret risk factors. With an impressive F1 score of 0.92 on the case study dataset, the framework demonstrates its reliability and effectiveness. This integrated approach allows for a comprehensive and reliable occupational risk diagnosis, enabling businesses to make informed decisions and take proactive measures to improve occupational health and safety.
 </div>
