@@ -20,7 +20,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/aswinram1997/Credit-Risk-Assessment_API/blob/master/jupyter_notebook.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/aswinram1997/Credit-Risk-Assessment_API)
 
-<div style="text-align: justify">The lack of an efficient and accurate credit risk assessment system for assessing the risk of loan applicants is crucial for preventing potential financial losses for banks. To address this challenge, this project developed a credit risk assessment ML model that achieves an impressive accuracy of 0.95 in predicting loan defaults. The winning DNN model is encapsulated as a containerized API, allowing seamless integration into the bank's internal applications and systems. By leveraging this integration, banks can make well-informed lending decisions, effectively minimizing financial losses and enhancing overall financial stability.
+<div style="text-align: justify">The lack of an efficient and accurate credit risk assessment system for assessing the risk of loan applicants is crucial for preventing potential financial losses for banks. To address this challenge, this project developed a credit risk assessment ML model that achieves an impressive ROC-AUC score of 0.95 in predicting loan defaults. The winning DNN model is encapsulated as a containerized API, allowing seamless integration into the bank's internal applications and systems. By leveraging this integration, banks can make well-informed lending decisions, effectively minimizing financial losses and enhancing overall financial stability.
 </div>
 
 <center><img src="images/Credit Risk Assessment API.png"/></center>
